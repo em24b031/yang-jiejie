@@ -6,16 +6,16 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: This is Wang liying's GitHub
+      href: This is yangjiejie's GitHub
     - icon: github
       text: Github
-      href: This is Wang liying's GitHub
+      href: This is yangjiejie's GitHub
     - icon: linkedin
       text: LinkedIn
-      href: This is Wang liying's GitHub
+      href: This is yangjiejie's GitHub
     - icon: envelope
       text: Email
-      href: This is Wang liying's GitHub
+      href: This is yangjiejie's GitHub
 ---
 
 ::: {#about-block}
