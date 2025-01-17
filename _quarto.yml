@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "WANGTIANHAO"                                # Your name
-  description: "about WANGTIANHAO"   # A brief slogan (optional)
+  title: "yangjiejie"                                # Your name
+  description: "about yangjiejie"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -27,11 +27,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">WANGTIANHAO</span>
+      <span class="faux-block">yangjiejie</span>
     center: |
       <span class="faux-block"><a href="">empty</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/jsahdgh2213/tianhao>This is WANGTIANHAO's GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/jsahdgh2213/tianhao>This is yangjiejie's GitHub</a></span>
 
 project:
   type: website
